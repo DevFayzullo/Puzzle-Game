@@ -42,7 +42,7 @@ git clone https://github.com/DevFayzullo/Puzzle-Game.git
 
 ## 📸 Screenshots
 
-> screenshot.png
+![Puzzle Game Screenshot](screenshot.png)
 
 
 ---
