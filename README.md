@@ -42,7 +42,7 @@ git clone https://github.com/DevFayzullo/Puzzle-Game.git
 
 ## 📸 Screenshots
 
-> *(Add your game screenshots here)*
+> screenshot.png
 
 
 ---
@@ -61,3 +61,4 @@ If you like the game, give a ⭐ to the repo and feel free to fork and contribut
 
 ---
 
+Happy coding! 🚀
